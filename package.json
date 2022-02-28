@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_and_expressjs_full_course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1_intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "lodash": "^4.17.21"
+  }
+}
